@@ -1,7 +1,7 @@
 # Prism Jelly
 
 ##Live demo
-[Live demo on github pages](http://rjbultitude.github.io/Inside-a-Cone/)
+[Live demo on github pages](https://rjbultitude.github.io/prism-jelly/)
 
 ## Info
 This canvas sketch animates sets of skewed rectangles using a 'jelly' algorithm.
