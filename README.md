@@ -1,6 +1,6 @@
 # Prism Jelly
 
-##Live demo
+## Live demo
 [Live demo on github pages](https://rjbultitude.github.io/prism-jelly/)
 
 ## Info
