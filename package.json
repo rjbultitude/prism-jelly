@@ -1,0 +1,22 @@
+{
+  "name": "prism-jelly",
+  "version": "1.0.0",
+  "description": "## Info This canvas sketch animates sets of skewed rectangles using a 'jelly' algorithm.",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjbultitude/prism-jelly.git"
+  },
+  "author": "Richard Bultitude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjbultitude/prism-jelly/issues"
+  },
+  "homepage": "https://github.com/rjbultitude/prism-jelly#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
